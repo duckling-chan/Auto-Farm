@@ -2,6 +2,7 @@
 The codes released is part of a Final Year Project. The project aims to automate indoor farming by monitoring and controlling air temperature, humidity, lighting, water cycles and records the data onto an SD card for further data processing. A camera is mounted onto Cartesian-style rails to periodically capture images of the plants from a top-down perspective.
 
 ## Hardware requirements
+### Microcontroller
 1 x Arduino Mega
 
 ### Basic interface
